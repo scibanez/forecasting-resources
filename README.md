@@ -22,10 +22,14 @@ The goal is to provide a **structured starting point for practitioners, research
 - [`NeuralForecast`](https://nixtlaverse.nixtla.io/neuralforecast/docs/getting-started/introduction.html)
 - [`HierarchicalForecast`](https://nixtlaverse.nixtla.io/hierarchicalforecast/index.html)
 
+### [Forecasting: Principles and Practice, the Pythonic Way (FPPPY)](https://otexts.com/fpppy/)
+
+### [Forecasting: Principles and Practice 3rd ed. (FPP3)](https://otexts.com/fpp3/)
+
 ### [`skforecast`](https://github.com/skforecast/skforecast)
 
 - [Tutorials on Global Forecasting Models](https://skforecast.org/0.20.1/examples/examples_english#global-models-multi-series-forecasting)
 
-### [Forecasting: Principles and Practice, the Pythonic Way (FPPPY)](https://otexts.com/fpppy/)
+### [`sktime`](https://github.com/sktime/sktime)
 
-### [Forecasting: Principles and Practice 3rd ed. (FPP3)](https://otexts.com/fpp3/)
+- [Hierarchical, Panel and Global Forecasting with `sktime`](https://www.sktime.net/en/latest/examples/01c_forecasting_hierarchical_global.html)
